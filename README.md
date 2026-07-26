@@ -2,7 +2,7 @@
 
 Tampermonkey-скрипт для быстрого предпросмотра страниц ассетов непосредственно на форуме. Достаточно задержать указатель на названии ассета — рядом появится карточка с изображениями, названием, ценой и описанием товара.
 
-[![Установить в Tampermonkey](https://img.shields.io/badge/Установить_в_Tampermonkey-00485B?style=for-the-badge&logo=tampermonkey&logoColor=white)](https://raw.githubusercontent.com/krazzer00/asset-store-hover-preview/main/asset-link-hover-preview.user.js)
+[![Установить в Tampermonkey](https://img.shields.io/badge/Установить_в_Tampermonkey-00485B?style=for-the-badge&logo=tampermonkey&logoColor=white)](https://raw.githubusercontent.com/krazzer00/asset-store-hover-preview/refs/heads/main/asset-link-hover-preview.user.js)
 
 ## Возможности
 
