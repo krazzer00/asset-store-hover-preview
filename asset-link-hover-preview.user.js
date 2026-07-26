@@ -2,7 +2,7 @@
 // @name         Asset Store Hover Preview
 // @name:ru      Предпросмотр ассетов по наведению
 // @namespace    https://github.com/krazzer00/asset-store-hover-preview
-// @version      1.1.0
+// @version      1.1.1
 // @description  Shows product images and details when hovering links to Jinxxy, Gumroad, Payhip and other stores.
 // @description:ru Показывает изображения и данные товара при наведении на ссылки Jinxxy, Gumroad, Payhip и других магазинов.
 // @homepageURL  https://github.com/krazzer00/asset-store-hover-preview
@@ -11,6 +11,16 @@
 // @updateURL    https://raw.githubusercontent.com/krazzer00/asset-store-hover-preview/main/asset-link-hover-preview.user.js
 // @match        https://forum.ripper.store/*
 // @grant        GM_xmlhttpRequest
+// @connect      cringy.store
+// @connect      jinxxy.com
+// @connect      gumroad.com
+// @connect      payhip.com
+// @connect      booth.pm
+// @connect      ko-fi.com
+// @connect      itch.io
+// @connect      sellfy.com
+// @connect      fourthwall.com
+// @connect      vrmodels.store
 // @connect      *
 // @run-at       document-idle
 // @noframes
